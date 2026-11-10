@@ -23,6 +23,9 @@
 - [Best Plumber Co Centennial Hiring Guide](https://local-business-guides.github.io/grayson-and-sons-plumbers-llc-centennial/best-plumber-co-centennial/): Best Plumber Co Centennial: Know what to ask before booking a plumbing visit in Centennial. Call Grayson & Sons Plumbers LLC to discuss your issue.
 - [Top Rated Plumber Co Centennial: A Customer Guide](https://local-business-guides.github.io/grayson-and-sons-plumbers-llc-centennial/top-rated-plumber-co-centennial/): Top Rated Plumber Co Centennial: Prepare for a plumbing visit in Centennial with a simple checklist. Call Grayson & Sons Plumbers LLC to discuss your concern.
 
+## Newsroom
+- [Grayson & Sons Plumbers LLC Publishes Centennial Plumbing Guide](https://local-business-guides.github.io/grayson-and-sons-plumbers-llc-centennial/news/2026-11-10-grayson-sons-plumbers-llc-publishes-centennial/): Grayson & Sons Plumbers LLC published a guide about finding a plumber in Centennial, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-10)
+
 ## Pages
 - [Plumber in Centennial, Colorado](https://local-business-guides.github.io/grayson-and-sons-plumbers-llc-centennial/): Get help with your plumbing needs from a local Centennial business, with clear information on how to reach us any day of the week. Call +1720-734-6481.
 - [About & Contact Grayson & Sons Plumbers LLC](https://local-business-guides.github.io/grayson-and-sons-plumbers-llc-centennial/about/): About Grayson & Sons Plumbers LLC, Centennial.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/grayson-and-sons-plumbers-llc-centennial/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/grayson-and-sons-plumbers-llc-centennial/news/rss.xml)
 - [Main resource site](https://grayson-sons-centennial-plumbing.localbusinesses1.chatgpt.site)
